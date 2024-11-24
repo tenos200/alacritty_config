@@ -1,9 +1,9 @@
 general.import = [
-    "~/.config/alacritty/alacritty-theme/themes/rose_pine_moon.toml"
+    "~/.config/alacritty/alacritty-theme/themes/catppuccin.toml"
 ]
 
 [window]
-opacity = 0.9
+opacity = 0.85
 blur = true
 padding.y = 10
 padding.x = 10
