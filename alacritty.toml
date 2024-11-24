@@ -1,0 +1,15 @@
+general.import = [
+    "~/.config/alacritty/alacritty-theme/themes/rose_pine_moon.toml"
+]
+
+[window]
+opacity = 0.9
+blur = true
+padding.y = 10
+padding.x = 10
+
+decorations = "Buttonless"
+
+[font]
+normal.family = "SF Mono Powerline"
+size = 12
